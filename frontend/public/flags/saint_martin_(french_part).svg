@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="686"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 686"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="saint_martin_(french_part).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M908.9 654.7l-456.3-176.5-141.1-25.3 0-34-55.4 11.1-101.7 36-25.5 5.5-63.6-36.6-19.8-39.5 21.4-27.1 199.5-3.5 118-29.1 82-64.3 31.6-114.1 54.9-40.9 125.2-48 138.4-35.5 91.8-1.7-1.9 151.8 45.7 209.3 2.4 210.1-45.6 52.3z"
+       id="MF"
+       name="St-Martin"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="18.037828735068864|-63.140034563747385"
+       cx="90.9"
+       cy="623.5"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="18.07332728028772|-63.07198036398358"
+       cx="545.5"
+       cy="374.2"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="18.117700461811292|-63.01753700417253"
+       cx="909.1"
+       cy="62.4"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="St-Martin"
+       cx="696.3"
+       cy="318.1"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

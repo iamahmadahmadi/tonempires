@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="1000"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 1000"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="aruba.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M386.9 276.8l250.6 194.4 48.5 53 36.8 94.1 147.2 184.2 14 110.8-46.7 41.2-85.7-0.5-89.9-34.6-60.4-61.1 84.7 0 0-28.9-140.3-67.8-285.9-253.1-84.5-34.9-41.4-25.5-17.9-40.9 8.5-42.9 38.3-72.5 9.8-41-16.2-69-28.9-60.4-6.1-47.3 51.2-28.6 172.1 197.7 42.2 33.6z"
+       id="AW"
+       name="Aruba"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="12.42839383870618|-70.05312862030867"
+       cx="154.4"
+       cy="909.1"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="12.514184843765388|-69.9603348423364"
+       cx="538.4"
+       cy="545.5"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="12.621423600089397|-69.88609981995857"
+       cx="845.6"
+       cy="90.9"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Aruba"
+       cx="486.8"
+       cy="531.9"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

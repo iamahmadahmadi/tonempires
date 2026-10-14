@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="1000"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 1000"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="isle_of_man.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M410.3 954.5l-12.6-31.7-15.4-2.4-17.6 10-19.3 7.1-21.5-8.2-27.4-36.2-21.7-8.4-31.5 14.7-28.8 29.1-30.3 20.3-35.1-11.3 0-18.7 7.8-4.5 5.2-4.3 6.2-3.7 10.9-3-1.8-48.5 49.5-70.3 13.2-44.2 0.7-75.3 5.7-32.2 13.7-37.3 4.9-24-1.7-16.9 2.9-10.1 32.5-7.9 35.5-24.5 30.7-39.8 44.9-40.3 20.6-28 64.3-157.4 34.6-67.8 52.3-49.8 78.3-46.6 55.1-13.3 27.5-15.3 26.3-8.3 24.2 13.1-8.5 36.3-30 94.5 2.8 34.1 7.9 18.8 9.5 41.8 8.1 16.8 11.4 7.1 26.8 3.4 11 8.1 7.8 14.1 9.1 22.6 1.9 21.2-13.3 9.2-8.5 8-20.6 43.5-10.9 8.8-9 20.1-7.9 23.3-8.6 18.1-9.1 9.5-40.1 23 12.3 68.6-32 36.8-50.4 27.4-42 40.1 1.4 30.9-80.3 54.4-21.2 26.6-8.9 19.5-20.6 9.6-23.1 6-16.6 8.5-11.8 17.9-19.4 67.3z"
+       id="IM"
+       name="Isle of Man"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="54.07505538330521|-4.766238982760871"
+       cx="184.2"
+       cy="909.3"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="54.21987954450525|-4.527123587362317"
+       cx="535.1"
+       cy="546.4"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="54.40090974600529|-4.335831271043473"
+       cx="815.8"
+       cy="91.1"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Isle of Man"
+       cx="530.8"
+       cy="544"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

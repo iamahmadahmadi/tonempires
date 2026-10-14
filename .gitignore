@@ -1,2 +1,9 @@
-node_modules
+# Serverless project ignores
+.tgcloud/
+node_modules/
+frontend/node_modules/
+frontend/build/
+.github/workflows/secrets*
+
+# Legacy frontend (from main)
 .env*.local

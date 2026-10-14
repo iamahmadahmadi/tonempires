@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="863"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 863"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="virgin_islands,_british.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M296.3 688.6l-15.4 22-29 20.7-28.5-2-25.5-1-44.3-3 24.6-22.6 32.4-2.8 14.8-24.5 15.8-22.8 6.9-30.5 36.3-20.5 26.1 7.8 42.7-8.6 19.7 5.8 58.8-10.6 59.6 9.5 18.7 18.7-6 9.9-20.7-3-30.7-8.7-22.7 12.8-9.4 14.9-13.8 12.5-16.8 5.4-14.2-2.8-10.5-5.8-11.5-4.2-18.1 0.9 0.9 5.8-14.2 15.1-17.4 12.8-8.6-1.2z m459.8-143.6l-15.2 18.7-34.6 27.4-38.2 22.5-25.4 3.4 44.9-61.4 12.3-30.5-6.7-39.3 8.1 0 5.1 2.8 4.3 4.4 6 4.6 100.4-2.1 37.6-9.7-15 28.4-33.9 18.8-34.1 10-15.6 2z m79.6-463.9l-79.5-3.5-32.7-11.4-17.9-24 159.4-3 63.7 23.2 25.8 63.7-15.8-1.1-103-43.9z m-420.7 697.9l2.2 13.5 0.6 25.7-5.5 5.2-6.8-15.9-19.2-10.7-27.9-5.7-4.1-7.6 16.2-4.2 12.9-0.3 7.4-2.8 8.1-2.1 16.1 4.9z m-289.7-181.7l4.1 6.7 5.9 13.7-11 9.2-52.5-7.5-26.3-0.9 10-14 46.1-10.2 23.7 3z m356-77.5l5.8 2.9 1.1 20.5-0.5 10.4-4.4 17.8-8.9 8.8-3.1-5.2 1.7-12.7-3.9-21 3.2-14.9 9-6.6z"
+       id="VG"
+       name="British Virgin Is."
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="18.355241305246754|-64.74883380112917"
+       cx="90.9"
+       cy="784.2"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="18.51987341870711|-64.49720619119343"
+       cx="545.5"
+       cy="470.7"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="18.725663560532556|-64.29590410324484"
+       cx="909.1"
+       cy="78.5"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="British Virgin Is."
+       cx="293.6"
+       cy="648.4"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

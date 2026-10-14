@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="310"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 310"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="cayman_islands.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M196.3 244l10 1.2 9.7 3.1 5.4 6.8 1.6 14.5-10.9 8.4-15.2 2.6-18.5-5-12.8 1.9-11.5 2-10.2 1.9-8.2 5.8-9.5 7.4-5.3 0.7-35-4.6-8.9-0.6-9.6 1-6.3 4.8-5.6-5.9 1-8.7 1.9-3.9 1.9-6.4 1.9-9.6 0-8.2-2.6-7.7-8.4-6.3-5.7-3.8 1.2-7 3.2-4.5 7.6-2.6 9.9 3.3-1.5 7.5 5.1 9.5 4.6 10.8-1.9 11.5 7.7 10.2 14.7-0.1 10.2-3.9 1.2-6.6 4-7.8 3.1 1.7 7.9 2.2-0.1-2.6-0.7-1.8-2.5-3.7 3.3 4.2-1-2.4-1.4-1.6-0.1-1.5 2.5-2.3-2.5-2.2-1.5-2.5-3-6.9 9.8 1.2 19.7 8.4 10.6 2 29.1-4 11.6 0.1z m590.8-199.3l15.7 0.1 14.9-5.9 9 5.3-2.1 1-5.2 3.3-14 4.1-39.9 20.7-18.9-2.7 7.9-10.4 9.1-5.1 10.5-8.5 13-1.9z m89.3-0.3l37.2-16.1 18.2-11 12.4-3.2 7.7 3.2 2.6 8.5-25.4 13.6-43.6 12.8-20.9 6.4 11.8-14.2z"
+       id="KY"
+       name="Cayman Is."
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="19.288551884463526|-81.33204706266257"
+       cx="90.9"
+       cy="281.8"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="19.486058775369756|-80.48709739907794"
+       cx="545.5"
+       cy="169.2"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="19.732942389002538|-79.81113766821024"
+       cx="909.1"
+       cy="28.2"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Cayman Is."
+       cx="140.1"
+       cy="264"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

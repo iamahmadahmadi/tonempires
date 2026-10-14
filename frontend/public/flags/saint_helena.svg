@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="1000"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 1000"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="saint_helena.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M502.7 952.9l0.5 0.5 0.2 0.3 0.1 0.5-0.8 0.3-1-0.5-1.8-1.4 0-0.2 0.2-0.6 0.2-0.2 0.3-0.1 1.2-0.1 0.3 0.1 0.2 0.2 0.2 0.9 0.2 0.3z m-59.6-105.1l0.3-0.4 0.1-0.1 1.2 0.1 0.4 0.3 0.4 0.4 0.5 0.3-0.1 0.3-0.1 0.1-0.1 0.1-0.2 0.1-0.8 0.9-0.5 0.3-0.3 0-0.7-0.7-0.8-0.7 0.3-0.3 0.4-0.7z m164.8-596.8l0.3 0 0.8 0 0.3-0.2 0.2 0.5 0.2 0.4 0 0.4-0.1 0.3-0.2 0.5-0.3 0.2-0.3 0.1-0.4 0.3-0.1-0.1 0-0.1-0.1-0.1-0.1-0.1-0.4 0.4-0.4 0.2-0.4 0.1-0.5-0.2-0.2-0.3 0.1-0.3 0.1-0.3 0.1-0.4 0.2-0.3 0.4-0.4 0.4-0.4 0.4-0.2z m-216.1-205.4l0.3 0.4 0.9 0.7 0.4 0.5-0.3 0.1-0.6 0.3-0.2 0.2-0.3 0.1-0.7 0-0.3 0.1-0.4-0.1-0.1-0.3-0.1-0.3-0.1-0.3 0.3-0.4 0.4-0.9 0.3-0.2 0.1 0.1 0.1 0.1 0.1 0 0.2-0.1z"
+       id="SH"
+       name="Saint Helena"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="-38.77188079003032|-13.97934729788821"
+       cx="401.3"
+       cy="901.7"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="-25.763872926638115|-9.595680305261135"
+       cx="511"
+       cy="515.3"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="-9.503863097397858|-6.088746711159475"
+       cx="598.7"
+       cy="86.6"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Saint Helena"
+       cx="608.1"
+       cy="252.1"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

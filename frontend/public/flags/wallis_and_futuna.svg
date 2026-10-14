@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="555"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 555"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="wallis_and_futuna.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M64.6 495.2l15.1 16.1 1.3 2.9 5.6 1.7 20.2 10.8 0 3.1-23.5-1.6-3.9 1.6-5.6-2.6-11.2-1.7-4.3-2.3-8.2-12.7-4.6-13.2 3.3-7.1 15.8 5z m876.8-470l5.5 9.9 5.5 7.7 2.1 7.4-4.4 9.4 1.6 1.7 0.7 1.2 1 3.2-7.2 1.2-1.4 4.4 2.6 11.5-2.4 5.4-5.4 1.1-6.1-1.7-4.2-3.3-0.5-7-4.8-7.7-2.1-7.3 7.4-5.8-3.3-9.5 2.8-8.6 6-7.5 6.6-5.7z"
+       id="WF"
+       name="Wallis and Futuna Is."
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="-14.26390541159682|-178.0827326882503"
+       cx="90.9"
+       cy="504.5"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="-13.819699752277625|-177.0526627254233"
+       cx="545.5"
+       cy="302.4"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="-13.264442678128631|-176.22860675516168"
+       cx="909.1"
+       cy="50.4"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Wallis and Futuna Is."
+       cx="66.8"
+       cy="514.7"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

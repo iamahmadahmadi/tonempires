@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="1000"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 1000"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="saint_pierre_and_miquelon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M691.3 859.2l-8.9 10.2-6.9 11.4-4.8 12.8-2.2 14.8 23.9 13.1 8.7 2.9-37.2 19.6-44.3 10.5-41.7-4.3-29.4-25.8 34.2-52.7 18.2-22.3 25-20.5 18.6-6.9 30.1-4.7 22.1 8.7-5.4 33.2z m-196.3-237.8l61.2 54.8-22 69.5-63.9 66.5-91 70.4-19.6 6.7-19.4-12.8-11.6-29.9 4.5-18.5 0-16.3-25.6-23.6-8.3-28.8 26.3-35.3 59.3-56.2 23.1-92.1-13.6-91.9-77-190.6-5.1-38-4.7-84.4-8.7-37.9 1.1-22.6 13.1-27.7 16.4-20.8 17.8-14 18.6-2.4 19 13.1-29.7 22.8-16.6 23 0.9 24.1 22.6 26.3 26.7 13.2 56.7 13.8 82.2 69.1 2.6 23-1 32.1-5.9 28.6-21.3 22.4-7.1 21.9-10.4 22-18.4 10-9.2-4.9-4.3-11.1-2.7-11.1-5.1-4.9-11.2 1.7-28 14.3-22.1-8.6-10.6 3.1 0 21.5 7 12.9 9.7 2 9.4-1.2 12.7 7.3 9.3 0.2 10.2 1.7 8.2 9.1 2.9 15.8-4.7 11.4-6.7 8.1-3.4 6.7 0 96 6.8 29.6 16.9 8.9 43.7 2z"
+       id="PM"
+       name="St. Pierre and Miquelon"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="46.77217848669657|-56.38400430058839"
+       cx="319"
+       cy="909.2"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="46.92758211449567|-56.258088750932146"
+       cx="520.1"
+       cy="546.3"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="47.12183664924455|-56.15735631120715"
+       cx="681"
+       cy="91.1"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="St. Pierre and Miquelon"
+       cx="401.5"
+       cy="282.2"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

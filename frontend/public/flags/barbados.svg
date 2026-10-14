@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="1000"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 1000"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="barbados.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M842.9 616.3l-9.5 106.7-77.5 80.2-60.5 42-35.4 24.5-64.4 65.8-23.7 2.9-19.2-0.2-18.7 3.2-20.6 13.1-29.7-51.1-55.8-32-67.7-16-40.3-2.9-23.8-1.7-40.5-28.8-34.9-68-39-137.7-24.6-417.6 6.1-48 21.3-40.7 42.9-44.1 54.5-20.4 55.4 30.2 41.5 62.9 14.5 31.4 21 45.6 57.8 125.5 39.8 55.1 56 43 79.2 60.7 45.6 26.5 59.1 19.3 55.7 25.7 35.4 44.9z"
+       id="BB"
+       name="Barbados"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="13.065842953356334|-59.64284012991298"
+       cx="191.4"
+       cy="909.1"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="13.183193238979644|-59.52919267672348"
+       cx="534.3"
+       cy="545.6"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="13.329881096008782|-59.43827471417188"
+       cx="808.6"
+       cy="90.9"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Barbados"
+       cx="414.3"
+       cy="606"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

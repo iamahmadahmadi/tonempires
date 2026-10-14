@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="698"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 698"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="bermuda.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M846 31.7l108.5 92.3-29.5 40.2-1.5 40.3-17.7-14-26.6-24.5-51.1-12.7-16.9 19.7-23.7-29.8-63.6 56 11.9 38.5 38.4 14 65 24.5-78.3 36.8-71 48.9-89.9 68.1-54.5 33-34.4 47.6-73.9 68.2-99.1 50.7-94.6 36.7-57.6-1.8-44.4-1.7-59.1-40.2-25.1-63-11.8-48.9 35.7 16.5-5.2-32.3 13.1-43.4-20-44 28.1 10.5 13.3-26.2 17.7 26.2 23.7 24.5-34 29.7-10.7 51.1-8.5 15.4 19.2 15.7 69.5 8.7 0 14-54.7-5.2-4.5 29.7 25.2 34.9 41.4 0 53.2-22.7 14.7-31.4 35.5-3.5 63.6-38.5 84.4-52.1 7.2-16.1-59.1 7-41.4-17.5-32.7-47.6 11.9-16.2 117.1 18.8 69.8-34 40.5-12.1 41.8-47.1 16.2 5.3 66.5-3.5 17.8-26.2 32.5-29.8-29.6-29.7-43.8 17.4-31.6 22.8-7 27.2-18.1-4.4-8.3-19.8 20.1-48.5 54.8-39.3 33.9-53.4 60.6-41.4 80.7-68.4z m-531.5 450.9l13.3-5.2 16.3 15.7 29.5 14-10.3 10.5-32.6-5.3-35.4 5.3-35.5-3.5-10.4-24.5 11.9-8.7 32.5 8.7 20.7-7z"
+       id="BM"
+       name="Bermuda"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="32.255106398279345|-64.87407582787651"
+       cx="90.9"
+       cy="634.5"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="32.311338625977335|-64.75489417790986"
+       cx="545.5"
+       cy="380.8"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="32.38162891059982|-64.65954885793654"
+       cx="909.1"
+       cy="63.5"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Bermuda"
+       cx="512.4"
+       cy="447.3"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

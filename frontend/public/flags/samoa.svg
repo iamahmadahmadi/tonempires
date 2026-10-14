@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="452"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 452"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="samoa.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M438.6 110.7l2.3 7.4 1.3 7.4 0.5 16.1 3.1 13.3 6 8.1 3.9 8.7-3.3 15.4-6.8 10.9-7.8 8.4-6.3 10.1-2.6 16.1 2 15.9-0.4 7.2-4.1 3.1-16.1-0.2-7-1.5-7.2-3.4-10.6-9.2-5.5-6.8-6.7-3.7-14.1 1-33.9 12.4-104.5 11.4-6.6-4.7-6.9-9.3-5.4-5.4-11-6.1-5.2-4.1-2.3-6.2-1.4-6.4-6.3-13.9-1.5-8.4-3.4-8.4-8-5.3-9.2-3.7-7.1-4-14.5-22.8-8.7-10.6-17.5-6.8-6.9-5.2-10.3-9.7-2.1-3.4-0.8-7.3-1.7-3.7-3.9-2.2-8.9 0.8-3.5-1.2-7.8-9.2-10.3-16-4.1-15.1 10.8-6.8 23.1 0 25.2 9.5 22.9 0.7 15-2.2 16-8.8 7.7-2 14.9-1.4 8.6-2.2 18.2-9.3 7.9-2.8 53.2 0 13.8-2.1 28.5-9.7 15.6-2.9 14.7 0.1 14.9 2.8 14.6 6.6 13.7 11.9 39.1 45 0.6 3-1.2 7.9 0.6 3 3.5 3.1 8.3 3.4 2.9 3.4z m430.4 248.4l30.3-3.3 33.8 17.2 21.4 25.6-7.1 21.9 2 2.7 3.1 7.3-17.2 0.6-47.8-5-28.6 2.7-13.3-1.2-13.9-7.1-11.1 6-11.2-0.7-21.4-5.3-10.9 1-28.9 9-7-0.3-5.9-1.9-4.1-3.9-1.5-5.8-2.8-6-6.7-2.8-13.6-3.1-12-6.5-10.6-3.7-10.9-0.9-26.7 3.6-11.9-0.4-10.5-3.7-9.7-7.5-14.1-22.5-7.1-8.2-6.5 2.2-4.6 0-11.8-17-7.9-5-15.3-1.8-13.8-6.3-1.8-14.8 5.5-16 7.8-10.9 53.3-19.3 57.4-9.2 30.9 1.4 28.5 6.3 96.1 38.2 29.3 3.4 14.7 5.4 11.8 8.9 6.9 12.9-1.1 7.1-4.5 4.1-2.9 4.8 3.9 7.8z"
+       id="WS"
+       name="Samoa"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="-14.023329494402077|-172.7153376835904"
+       cx="90.9"
+       cy="410.6"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="-13.787326861650655|-172.04289303951333"
+       cx="545.5"
+       cy="246.2"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="-13.492323570711378|-171.50493732425167"
+       cx="909.1"
+       cy="41"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Samoa"
+       cx="278.2"
+       cy="143.1"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

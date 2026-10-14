@@ -1,0 +1,47 @@
+name: TON Empires daily airdrop
+
+on:
+  schedule:
+    # GitHub Actions cron uses UTC. Run shortly after the UTC date rolls over.
+    - cron: '5 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ton-empires-daily-airdrop
+  cancel-in-progress: false
+
+jobs:
+  distribute:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Serverless CLI
+        run: npm ci
+
+      - name: Run daily distribution against Telegram Serverless
+        env:
+          TGCLOUD_TOKEN: ${{ secrets.TGCLOUD_TOKEN }}
+          TGCLOUD_AIRDROP_ADMIN_ID: ${{ secrets.TGCLOUD_AIRDROP_ADMIN_ID }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ -z "${TGCLOUD_TOKEN:-}" ]]; then
+            echo "Missing repository secret TGCLOUD_TOKEN" >&2
+            exit 1
+          fi
+          if [[ ! "${TGCLOUD_AIRDROP_ADMIN_ID:-}" =~ ^[0-9]+$ ]]; then
+            echo "Missing/invalid repository secret TGCLOUD_AIRDROP_ADMIN_ID (must be a numeric Telegram ID)" >&2
+            exit 1
+          fi
+          npx tgcloud run endpoints/dailyAirdrop '{}' --ctx "{ initData: { user: { id: ${TGCLOUD_AIRDROP_ADMIN_ID} } } }"

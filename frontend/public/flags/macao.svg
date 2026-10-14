@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="1000"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 1000"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="macao.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M535.9 500.4l79 18 33.8 0 0 36.5-16.6 25.3-28.5 18.3-33.8 0-22 71.2 54 19.5 35.7 13.8 39.7-18.3 0 12.2-22.5 24 35.6 24.7 45.1-0.3 5.4 18.9 5.9 18.3 0 18.6-11.3 6-17.2 6.1-44.5-26.2 3.5 45.1-28.5 12.2-22.5-6.1-30.9-25.3-0.6 47.1-10.7 37.5 8.3 38.8-22.5 6.1-42.8-33.4-37.4 27.3-5.3 12.2-17.3 6-17.2 0-22.5-18.2-19-43.9 30.2-7.7-21.3-208.6-0.6-0.7-59.4-62.8-13.7-29.5 0-0.6 16.1-67.7 51-8.9 11.3-11.6 72.5-16 41.5 22.1z m-161.5-425.8l17.8-29.1 41 24.3 0 12.2 45.1 18 22.6 18.6 13.1 31.1 8.9 31.4-38.6-6.7-22.6 18.6 5.3 18.2 11.3 6.1 46.9-27.5-24.3 45.8 0 6.1-11.3-12.2-11.3 12.2 6 13.1 0 18.3 0 6.1 0 12.2-22.6 11.9-39.8 30.4-22.5 12.2-28.5 0-22.6 31.1-29.1 0-29.7 38.5-0.6 0.6-35.6-78.9 2.4-8.9 14.2-44.3 19.6-20.2 4.2-4.5 36.2-62.2 35.6-47.4-11.3-25.4-11.8 0 5.9 12.5-40.4 12.9-21.9-39.5 33.2-10.2 0-6.1 46.3 0 8.9-19.3z"
+       id="MO"
+       name="Macao"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="22.11114329518072|113.52324872566554"
+       cx="278"
+       cy="909.1"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="22.15730217061404|113.5570622109948"
+       cx="524.7"
+       cy="545.5"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="22.215000764905692|113.58411299925821"
+       cx="722"
+       cy="90.9"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Macao"
+       cx="517.2"
+       cy="762.7"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

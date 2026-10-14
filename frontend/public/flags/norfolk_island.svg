@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="1000"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 1000"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="norfolk_island.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M788.1 269.5l117.5 86.1-16.4 186.4-92.5 183.9-111.3 78-32.9 28.7-20.4 34.1-14.1 41.2 1.5 46.6-57.2-158.7-98.7-99.5-103.5-9-68.2 116.6-59.6 0-20.4-118.4-39.9-111.2-18.1-100.4 39.2-84.3 72.9-102.1 5.5-80.7-57.2-37.7-119.9 32.3 138.7-155.9 183.4 41.2 195.2 116.5 176.4 66.3z"
+       id="NF"
+       name="Norfolk Island"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="-29.075884601290372|167.91633141148156"
+       cx="134.9"
+       cy="909.1"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="-29.042876785854933|167.95844567411154"
+       cx="540.6"
+       cy="545.4"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="-29.001617016560633|167.99213708421553"
+       cx="865.1"
+       cy="90.9"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Norfolk Island"
+       cx="502.9"
+       cy="437"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>
