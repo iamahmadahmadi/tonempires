@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="60.564941"
+   height="42.395508"
+   viewBox="0 0 60.564942 42.395508"
+   sodipodi:docname="youtube.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath126-8">
+      <path
+         d="m 2220.8333,420.83331 h 5491.667 V 3704.1666 h -5491.667 z"
+         transform="matrix(0.47552218,0,0,0.47552218,-2507.3421,-590.47457)"
+         clip-rule="evenodd"
+         id="path126-0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1"
+     transform="translate(-2157,-438)">
+    <path
+       id="path125"
+       d="M 18.113001,19.167999 C 11.148001,19.715 5.8830013,25.377998 5.5430012,32.359001 5.2620001,38.112999 5,44.73 5,49.299999 c 0,4.620999 0.27,11.34 0.5500002,17.136997 C 5.8870001,73.326996 11.035,78.957001 17.906,79.588997 25.511,80.292 36.514999,80.999001 50,80.999001 c 13.449001,0 24.433998,-0.703003 32.035004,-1.402001 6.898002,-0.637001 12.055,-6.300003 12.387001,-13.220001 0.292999,-6.105 0.578003,-13.084999 0.578003,-17.077 0,-3.950001 -0.280999,-10.824001 -0.57,-16.882999 -0.332001,-7.008 -5.610001,-12.707001 -12.601997,-13.254 -7.488999,-0.59 -18.285,-1.163999 -31.828,-1.163999 -13.577999,0 -24.395,0.577999 -31.886999,1.167999 z M 41,35.941002 64.198997,49.299999 41,62.654999 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       transform="matrix(0.67294439,0,0,0.67294439,2153.6353,425.88767)"
+       clip-path="url(#clipPath126-8)" />
+  </g>
+</svg>

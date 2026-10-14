@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="1000"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 1000"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="guam.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M710.2 76.1l22 48.9 37.8 27.7 43 12.3 37.5 2.8 0.5 25.8-31 58-65.7 96.5-75.2 69.3-136.1 86.7-53.1 55.7-30.1 91-19.9 205.7-52.4 80.2-37.6 16.1-43.9 1.7-36.1-12.6-21.9-39.7-29.3-37.8-6.8-11-13.1-83.3-6.8-14.8-10.2-12.8-12.6-10.2-15.7-7.2 22-22.1 13.9-22.7 7.3-28.1 2.1-39-4.1-18.2-10.8-22.6-12.2-19.3-22.7-16.9 9.6-16.7 16.7-9.5 8.9 11.7 29.6-3 129.3-75.5 29.7-26.6 117.1-68.5 22.8-22.9 19.5-26.5 17.1-31.9 44.9-147.7 13.8-26.6 25.3-24.2 34.8-20.4 29.8-2.4 12.3 30.6z"
+       id="GU"
+       name="Guam"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="13.261688432348254|144.6405949246806"
+       cx="184.1"
+       cy="909.1"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="13.426922895282562|144.80457604154532"
+       cx="535.1"
+       cy="545.6"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="13.633465973950447|144.93576093503708"
+       cx="815.9"
+       cy="90.9"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Guam"
+       cx="319"
+       cy="705.7"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

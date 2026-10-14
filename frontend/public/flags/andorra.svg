@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="835"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 835"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="andorra.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M807.3 542.5l-24.1 28.6-28.3 13.3-30.6 0.3-30.2-11-6.5-10.6-7.1-2.9-7.6 3.8-9.2 10.8-27.5 92.7-81.2 34.4-159.8 20.8-14.1 16.2-11 19.7-16 19.5-29.4 16.2-20.7 2.9-153.5-20.5-29.1-21.7 0-43-73.1-114.4 43-19.6 14.4-3.7 50.1-36.2-8.7-54.4-44.5-39.8-57.1 7.6 8.3-39.1 42-72.9 0.2-13.2-21.2-14.4 3.1-32.5 14.2-34.8 11.3-20.7 56-23 39.1-135.7 80.1 4.2 74.4-28.6 38.8-2.8 137.5 94.5 27.8 13.1 288.2 28.5-22 69.9 40.9 26 58.9 18.3 21.3 31.1 10.1 14.7-63.6 6-46.4 45.1-28 71.5-9.2 85.8z"
+       id="AD"
+       name="Andorra"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="42.43971166157701|1.4243880612519793"
+       cx="90.9"
+       cy="759.3"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="42.52798536390526|1.603705281473368"
+       cx="545.5"
+       cy="455.9"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="42.63832749181557|1.7471590576504792"
+       cx="909.1"
+       cy="76"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Andorra"
+       cx="382.5"
+       cy="388.2"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

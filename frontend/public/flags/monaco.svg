@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="879"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 879"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="monaco.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M954.5 393.5l-58.4 61.6-188.7 157-173 226.9-299.1-22.8-189.8-60.7 19.1-199.9 68.4-205.4 188.7-211.8 246.3-98.4 244.4 141.1 142.1 212.4z"
+       id="MC"
+       name="Monaco"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="43.72024603810344|7.369335403872007"
+       cx="90.9"
+       cy="799.1"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="43.73846051072361|7.405187316721892"
+       cx="545.5"
+       cy="479.5"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="43.76122860149883|7.4338688470018"
+       cx="909.1"
+       cy="79.9"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Monaco"
+       cx="458"
+       cy="458.6"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

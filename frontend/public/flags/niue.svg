@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="1000"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 1000"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="niue.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M574.6 50.8l124.3 14.5 12.9 23.6 136.4 379.1 54.5 111-67.1 25.2-43.8 41-85.9 103.5-199.9 139.2-36.4-19.1-38.4 16.2-86.3 69.5-15-49.7-38.2-22.3-53.4-2.9-60.6 8.3 15.2-16.6 12.4-18.2 15.2-17.8 25.8-17-22.3-84.5-10.5-22.8-116.2-38.5 13.1-91.1 103.1-162.2-8.2-29-17.5-26.9-13.5-28.6 3.4-37.2 16.6-26.5 18.6-5 21.9-2.1 28-19.8 97-193.3 154.4-5.3 60.4 5.3z"
+       id="NU"
+       name="Niue"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="-19.13381935751863|-169.94205276182"
+       cx="137.5"
+       cy="909.1"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="-19.062335000961692|-169.85829220722223"
+       cx="540.3"
+       cy="545.3"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="-18.97297955526552|-169.79128376354402"
+       cx="862.5"
+       cy="90.9"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Niue"
+       cx="519.7"
+       cy="462"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

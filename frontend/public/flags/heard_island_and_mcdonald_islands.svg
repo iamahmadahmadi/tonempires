@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="667"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 667"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="heard_island_and_mcdonald_islands.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M832.9 426l42.3 17.1 42.9 4.3 36.4-5.3-237.5 74-82.2 87.4-45.3 20.4-116 13-53.5-8.8-52.4-42-15.4-20.9-41.5-68.3-52.4-128.4-11.3-41.3 11.9-26.7-18.3-15.1-10.1-18.8 1.4-19.7 16.2-18.1-31.1-21.2-25-10.9-91.3-8.7-27.4-17.5-18.9-33.7-8.9-53 52.6-17.7 43.4-35.8 53.7 60.8 9.9 2.6 11.6 28.1 26.1 33.3 25.8 20.5 11.8-10.3 6.7-40.1 16.4-17.9 21.1 4.9 21.4 27.1-21.5 16.2 20.1 41.9 33.8 7.2 36.6-17.1 28-32 31.1 15.6 89.2 3.9 36.9 26.2 17.2 18.6 35.4 15.1 18.4 11.8 11.9 17.3 24.4 45.3 12.2 9.2 40.4 49.4 16.6 27.8 56.2 30.3z"
+       id="HM"
+       name="Heard I. and McDonald Is."
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="-53.1810115586788|73.26482182657259"
+       cx="90.9"
+       cy="606.5"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="-53.08862880418361|73.55290771858904"
+       cx="545.5"
+       cy="363.6"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="-52.97315036106462|73.7833764322022"
+       cx="909.1"
+       cy="60.6"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Heard I. and McDonald Is."
+       cx="470.2"
+       cy="402.5"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

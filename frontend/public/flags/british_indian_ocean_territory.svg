@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="1000"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 1000"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="british_indian_ocean_territory.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M741.6 934.6l1.6-2 1.4-1.1 1.2-1.5 1-3.4 1.2 2.4 0.6 2.3-0.2 2.7-1.4 3.3-3.3 3.9-11.7 10.4-4.6 2.9-2.4-11.6 2.4-23.7-2.8-9.8-2.7-2.3-9.3-5.2-3.5-0.9-3.7-2.4-8.8-11.8 5.4 0.8 20.2 13.9 5.2 5.1 2.5 10-2.5 35.1 4.2-3.7 10-13.4z m6.8-43.7l4.3 7.4-2.1 5.7-4.2 5.5-2.2 7 0.2 2.8 0.4 2.4 1.5 3.8-1.7-2.2-1.8-3.2-1-3.4 1.1-3.1 6.5-12.7-3.8-9.9-8.4-9.6-7-11.7 4.4 3 13.8 18.2z m-464.5-258.2l4.8 0.1-2.8 1.4-1.4-0.2-0.6-0.9 0-0.4z m-36.4-108.9l-0.2-4.3 0.6-1.7 2-1.6 0.6 3.3-0.5 1.9-1.1 1.3-1.4 1.1z m31.5-79.4l1.6-3.2 1.9-2.4 2.6-1.6 3-0.4-1.6 4.7-2.3 4.7-2.6 1.9-2.6-3.7z m178.1-311.2l-3.5-2.6-0.9-0.9 3.8 0.7 1.2 0.9-0.2 1-0.4 0.9z m183.7-46.3l3.9-3.5-1.1 2.3-1.2 1-1 0.2-0.6 0z m-198.5-17.5l4.1-6.3-0.6 3.6-1.3 1.9-1.4 0.7-0.8 0.1z m9.5-20l3.4-1-0.8 2.1-0.8 0.2-0.8-0.7-1-0.6z m84.4-0.7l-0.6-1-0.8-0.5-0.4-0.5 0.4-1.2 1.5 0.2 0.3 0.7-0.4 1 0 1.3z"
+       id="IO"
+       name="Br. Indian Ocean Ter."
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="-7.321962161138825|71.32267907197378"
+       cx="272.6"
+       cy="909"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="-6.439865809378871|71.93950035947435"
+       cx="525.3"
+       cy="545"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="-5.337245369678927|72.43295738947481"
+       cx="727.4"
+       cy="90.8"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Br. Indian Ocean Ter."
+       cx="713.5"
+       cy="899"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

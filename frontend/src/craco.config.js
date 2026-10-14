@@ -1,0 +1,15 @@
+// craco.config.js
+module.exports = {
+    webpack: {
+      configure: (webpackConfig) => {
+        webpackConfig.resolve.fallback = {
+          "crypto": require.resolve("crypto-browserify"),
+          "stream": require.resolve("stream-browserify"),
+          "buffer": require.resolve("buffer/"),
+          "util": require.resolve("util/"),
+          "process": require.resolve("process/browser")
+        };
+        return webpackConfig;
+      }
+    }
+  };

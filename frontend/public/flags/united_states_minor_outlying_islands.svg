@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="91"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 91"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="united_states_minor_outlying_islands.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M55.4 87.3l0.1 0 0 0.1-0.1-0.1z m-45.7-1.6l0.1 0 0 0.1-0.1 0 0-0.1z m-2.4-81.2l0 0.1-0.1 0 0.1-0.1z m42.5 65.4l0 0.1-0.1 0 0-0.1 0.1 0-0.1 0 0.1 0z"
+       id="UM"
+       name="U.S. Minor Outlying Is."
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="1.0414370719421184|-160.18749951996176"
+       cx="55"
+       cy="83.4"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="12.48307117923427|11.833476196694775"
+       cx="532.9"
+       cy="51.3"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="26.785113813349454|149.45025677002002"
+       cx="915.2"
+       cy="9"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="U.S. Minor Outlying Is."
+       cx="962.9"
+       cy="31.7"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

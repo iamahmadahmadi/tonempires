@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="1000"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 1000"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="saint_lucia.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M708.7 278.6l8.5 67.5-0.2 59.9-26.7 176.4 6.4 101-27.6 112-5.9 15.8-6.7 2.8-27.9 7.8-9.5 6.4-10.3 21.9-20 87.4-13.9 13.3-6.8 3.7-11.1 0-40.6-55.6-166.2-64.8-37.2-44.8-7.1-12-13.5-15-8.7-17.3 15.4-35.9 2.5-23.2-2.5-45-3.5-14.7-6.3-11.6-5.6-14.5-0.9-23.3 5.8-24.2 20-42.6 4.4-19 12.1-31.9 53.1-77.1 19.9-51.4 54.1-81.9 11.6-9.2 21.6-12.3 11.1-11 5.2-14.2 8.7-40.4 8.9-15.9 54.3-78.2 31.4-22 43 14.1-10 39.5 14.9 20.5 24.2 14 17.9 20 6.1 28.5 7.6 96.5z"
+       id="LC"
+       name="Saint Lucia"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="13.734528038176013|-61.068743455402796"
+       cx="304.5"
+       cy="909.1"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="13.893414746210421|-60.970965134979835"
+       cx="521.7"
+       cy="545.6"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="14.092023131253432|-60.892742478641466"
+       cx="695.5"
+       cy="90.9"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Saint Lucia"
+       cx="501.4"
+       cy="548"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

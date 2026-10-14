@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="1000"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 1000"
+   width="1000"
+   id="svg1"
+   sodipodi:docname="saint_kitts_and_nevis.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M774.5 659.4l57.2 1.2 49.8 16.8 38.2 37.3 22.2 62.9 3.2 26.1 1.4 66.8-4.6 25.1-14.1 34.9-11.1 12.2-50 11.8-127.8-10.4-39.1-105.3 21.2-121.3 53.5-58.1z m-141.1-180.6l37.6 21.3 33 47.2 0.2 47.7-61.4 23.4-34.9-24-29.6-108.6-54.5-34-36-40.8-25.3-9.2-86.7 4.9-35.6-4.9-87.5-35.7-118-73.4-81.2-92.7 21.9-93.6 10.7-9.9 7.4-5.3 8.2-3.1 13-3.2 33.6-14.4 11.9-8.5 7.6-16.5 274.3 165.3 67.4 73 47.7 118.2 31.1 54 45.1 22.8z"
+       id="KN"
+       name="St. Kitts and Nevis"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="17.11629663774549|-62.84485836743381"
+       cx="98.2"
+       cy="909.1"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="17.242419701949597|-62.68270829825264"
+       cx="544.6"
+       cy="545.6"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="17.400073532204733|-62.55298824290771"
+       cx="901.8"
+       cy="90.9"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="St. Kitts and Nevis"
+       cx="337.4"
+       cy="274.2"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

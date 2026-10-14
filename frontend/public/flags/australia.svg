@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="906"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 906"
+   width="1000"
+   id="svg5"
+   sodipodi:docname="australia.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M436.3 88.6l0 0.1-0.4 0 0-0.2 0.4 0.1z"
+       id="AU"
+       name="Australia"
+       fill="#168acd"
+       fill-opacity="1" />
+    <path
+       d="M436.3 88.6l0 0.1-0.4 0 0-0.2 0.4 0.1z"
+       id="path1"
+       name="Indian Ocean Ter."
+       fill="#168acd"
+       fill-opacity="1" />
+    <path
+       d="M436.3 88.6l0 0.1-0.4 0 0-0.2 0.4 0.1z"
+       id="path2"
+       name="Ashmore and Cartier Is."
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="-52.47490823919003|99.93578941972895"
+       cx="90.9"
+       cy="808.6"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="-34.270806621054874|131.07824548965988"
+       cx="545.5"
+       cy="438.7"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="-11.515679598385912|155.99221034560463"
+       cx="909.1"
+       cy="74.9"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Australia"
+       cx="588.8"
+       cy="268.8"
+       id="circle2"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="Indian Ocean Ter."
+       cx="174.6"
+       cy="59.7"
+       id="circle3"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="Coral Sea Is."
+       cx="885.7"
+       cy="219.8"
+       id="circle4"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="Ashmore and Cartier Is."
+       cx="436.1"
+       cy="88.6"
+       id="circle5"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>

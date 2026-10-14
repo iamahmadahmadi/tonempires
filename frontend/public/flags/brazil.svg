@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--********* Copyright (c) 2024 Pareto Softare, LLC DBA Simplemaps.com ***************************************
+************* Free for Commercial Use, full terms at  https://simplemaps.com/resources/svg-license ************
+************* Attribution is appreciated! https://simplemaps.com *******************************************-->
+
+<svg
+   baseprofile="tiny"
+   fill="#6f9c76"
+   height="912"
+   stroke="#ffffff"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width=".5"
+   version="1.2"
+   viewbox="0 0 1000 912"
+   width="1000"
+   id="svg2"
+   sodipodi:docname="brazil.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="features">
+    <path
+       d="M375.9 785.7l0.1 0.2-0.8 0.1 0.2-0.2 0.5-0.1z"
+       id="BR"
+       name="Brazil"
+       fill="#168acd"
+       fill-opacity="1" />
+    <path
+       d="M375.9 785.7l0.1 0.2-0.8 0.1 0.2-0.2 0.5-0.1z"
+       id="path1"
+       name="Brazilian I."
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="points">
+    <circle
+       class="-31.79180523344963|-71.7614041822503"
+       cx="90.9"
+       cy="823.5"
+       id="0"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="-16.188003098965233|-49.19069912990315"
+       cx="545.5"
+       cy="478.1"
+       id="1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="3.316749569140266|-31.13413508802543"
+       cx="909.1"
+       cy="80.8"
+       id="2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+  <g
+     id="label_points">
+    <circle
+       class="Brazil"
+       cx="538"
+       cy="393.1"
+       id="circle1"
+       fill="#168acd"
+       fill-opacity="1" />
+    <circle
+       class="Brazilian I."
+       cx="375.6"
+       cy="785.9"
+       id="circle2"
+       fill="#168acd"
+       fill-opacity="1" />
+  </g>
+</svg>
